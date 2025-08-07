@@ -3,4 +3,4 @@
 this is the first time I am doing Git
 
 ##Author
-Yogichess
+Yogichess ( Master of Git )
